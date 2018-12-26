@@ -1,0 +1,32 @@
+Friday, April 5, 2019
+11:30 am – 2:30 pm
+Potomac 3-4
+
+Presenters:
+Paul Tsagaroulis, U.S. General Services Administration (GSA)
+Chantale Antonik, Shaker International
+
+Coordinator:
+Michael Hoffman, Johnson & Johnson
+
+Abstract:
+This seminar focuses on the practical application of data visualization, grounded in theory and practice by top visual designers. This hands-on session will allow users to translate principles into actionable data visualizations using software tools for all experience levels. Participants will be able to demonstrate how to evaluate designs and identify implications of data visualization for decision making.
+
+Full Description:
+A key premise of data visualization is to graphically display information to others in a meaningful way. This seminar is a hands-on session in which participants will interact with common data visualization software tools. We will practice doing – creating data visualizations that best represent the data – with discussions on how one sees the data and thinks about the data. We will explore how data visualization using R, Tableau, and Excel may prompt cognitive processes such as comprehension, interpretation, and sense-making, and highlight ways that data visualization can potentially inhibit these cognitive processes.
+
+Intended audience:
+This session is intended for I-O and HR professionals seeking to learn more about data visualization and who are interested in applying key principles of data visualization to static and dynamic data visualizations created in commercial data visualization software applications.
+
+- The data visualization code and formulas (written for R and Excel) will be provided
+- There are several ways to install and run R – we recommend installing R or RStudio on your computer if you want to practice during the code along. Visit https://r-project.org or https://rstudio.com
+- We will use open datasets from
+-- OPM - https://www.opm.gov/data/Index.aspx?tag=FedScope
+-- Data.gov - https://catalog.data.gov/dataset/time-to-hire
+
+Learning Objectives:
+- Identify and describe how data visualization can be used to help oneself and others understand data and how it fits into a design framework
+- Apply and practice developing static and dynamic data visualizations using R, Tableau and Excel with open-source data
+- Discuss and evaluate data visualizations and recognize implications of interpretation for decision making
+
+http://my.siop.org/Conferences/2019-Conference/Friday-Seminars
