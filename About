@@ -21,7 +21,7 @@ This session is intended for I-O and HR professionals seeking to learn more abou
 - The data visualization code and formulas (written for R and Excel) will be provided
 - There are several ways to install and run R – we recommend installing R or RStudio on your computer if you want to practice during the code along. Visit https://r-project.org or https://rstudio.com
 - We will use open datasets from
--- OPM - https://www.opm.gov/data/Index.aspx?tag=FedScope
+-- OPM - <A href'"https://www.opm.gov/data/Index.aspx?tag=FedScope">opm.gov/data/Index.aspx?tag=FedScope</a>
 -- Data.gov - https://catalog.data.gov/dataset/time-to-hire
 
 Learning Objectives:
