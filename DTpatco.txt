@@ -1,8 +1,0 @@
-PATCO,PATCOT
-1,Professional
-2,Administrative
-3,Technical
-4,Clerical
-5,Other White Collar
-6,Blue Collar
-9,Unspecified
